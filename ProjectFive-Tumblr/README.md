@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![tumblrapp](tumbrapp.gif)
+![tumblrapp](tumblrapp.gif)
 
 ## Notes
 
